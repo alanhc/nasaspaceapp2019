@@ -1,0 +1,1583 @@
+fileFormatVersion: 2
+guid: ac59831408e86f442a91bfa00da33c17
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: a_desk
+    100002: a_pillar
+    100004: a_sign
+    100006: a_topwall
+    100008: a_trushcan
+    100010: AM108_set13_016
+    100012: AM108_set13_017
+    100014: AM108_set13_018
+    100016: AM108_set13_019
+    100018: AM108_set13_020
+    100020: AM108_set13_021
+    100022: AM108_set13_024
+    100024: AM108_set13_025
+    100026: AM108_set13_026
+    100028: AM108_set13_027
+    100030: AM108_set13_028
+    100032: AM108_set13_029
+    100034: AM108_set13_030
+    100036: AM108_set13_031
+    100038: AM108_set13_032
+    100040: AM108_set13_033
+    100042: AM108_set13_034
+    100044: AM108_set13_035
+    100046: AM108_set13_036
+    100048: AM108_set13_037
+    100050: AM108_set13_038
+    100052: AM108_set13_039
+    100054: AM108_set13_040
+    100056: AM108_set13_041
+    100058: AM108_set13_042
+    100060: AM108_set13_043
+    100062: AM108_set13_044
+    100064: AM108_set13_045
+    100066: AM108_set13_046
+    100068: AM108_set13_047
+    100070: AM108_set13_048
+    100072: AM108_set13_049
+    100074: AM108_set13_050
+    100076: AM108_set13_051
+    100078: AM108_set13_052
+    100080: AM108_set13_053
+    100082: AM108_set13_054
+    100084: AM108_set13_055
+    100086: AM108_set13_056
+    100088: AM108_set13_057
+    100090: AM108_set13_06
+    100092: AM108_set13_09
+    100094: AM108_set13_11
+    100096: AM108_set13_16
+    100098: AM108_set13_22
+    100100: AM108_set13_27
+    100102: AM108_set13_27 1
+    100104: AM108_set13_28
+    100106: AM108_set13_28 1
+    100108: AM108_set13_29
+    100110: AM108_set13_29 1
+    100112: AM108_set13_30
+    100114: AM108_set13_31
+    100116: AM108_set13_32
+    100118: AM108_set13_33
+    100120: Archmodels_114_04_01
+    100122: Archmodels_114_04_05
+    100124: Archmodels_114_04_06
+    100126: Archmodels_114_04_07
+    100128: Archmodels_114_04_08
+    100130: Archmodels_114_04_09
+    100132: Archmodels_114_04_10
+    100134: Archmodels_114_04_11
+    100136: Archmodels_114_04_14
+    100138: Archmodels_114_04_25
+    100140: Archmodels_114_04_26
+    100142: Archmodels_114_04_27
+    100144: Archmodels_114_04_31
+    100146: Archmodels_114_04_32
+    100148: b_clock
+    100150: b_cook
+    100152: b_cook02
+    100154: b_sign
+    100156: b_topwall
+    100158: bowl
+    100160: bowl1
+    100162: bowl2
+    100164: bowl3
+    100166: bowl4
+    100168: bowl5
+    100170: bowl6
+    100172: chili
+    100174: chili 1
+    100176: chili 2
+    100178: chili 3
+    100180: chili 4
+    100182: chili 5
+    100184: chili 6
+    100186: chili 7
+    100188: cook
+    100190: dish
+    100192: dish2
+    100194: dish3
+    100196: //RootNode
+    100198: EatingShop_uv1
+    100200: EatingShop_uv2
+    100202: EatingShop_uv3
+    100204: lamp_A_1_1
+    100206: lamp_A_1_10
+    100208: lamp_A_1_11
+    100210: lamp_A_1_12
+    100212: lamp_A_1_13
+    100214: lamp_A_1_14
+    100216: lamp_A_1_15
+    100218: lamp_A_1_16
+    100220: lamp_A_1_17
+    100222: lamp_A_1_18
+    100224: lamp_A_1_19
+    100226: lamp_A_1_2
+    100228: lamp_A_1_20
+    100230: lamp_A_1_3
+    100232: lamp_A_1_4
+    100234: lamp_A_1_5
+    100236: lamp_A_1_6
+    100238: lamp_A_1_7
+    100240: lamp_A_1_8
+    100242: lamp_A_1_9
+    100244: lamp_A_28
+    100246: lamp_A_29
+    100248: lamp_A_2_1
+    100250: lamp_A_2_10
+    100252: lamp_A_2_11
+    100254: lamp_A_2_12
+    100256: lamp_A_2_13
+    100258: lamp_A_2_14
+    100260: lamp_A_2_15
+    100262: lamp_A_2_16
+    100264: lamp_A_2_17
+    100266: lamp_A_2_3
+    100268: lamp_A_2_4
+    100270: lamp_A_2_5
+    100272: lamp_A_2_6
+    100274: lamp_A_2_7
+    100276: lamp_A_2_8
+    100278: lamp_A_2_9
+    100280: lamp_A_3
+    100282: lamp_A_30
+    100284: lamp_A_31
+    100286: light_bulb_10
+    100288: light_bulb_3
+    100290: light_bulb_4
+    100292: light_bulb_5
+    100294: light_bulb_6
+    100296: light_bulb_7
+    100298: light_bulb_8
+    100300: light_bulb_9
+    100302: NTM_Chair_ac14
+    100304: NTM_Chair_ac15
+    100306: NTM_Chair_ac16
+    100308: NTM_Chair_ac17
+    100310: NTM_Chair_ac18
+    100312: NTM_Chair_ac19
+    100314: NTM_Chair_ac20
+    100316: NTM_Chair_ac21
+    100318: NTM_Chair_ac22
+    100320: NTM_Chair_ac23
+    100322: NTM_Chair_ac24
+    100324: NTM_Chair_ac25
+    100326: NTM_Chair_ac26
+    100328: NTM_Chair_ac27
+    100330: NTM_Chair_ac28
+    100332: NTM_Chair_ac29
+    100334: NTM_Chair_ac30
+    100336: NTM_Chair_ac31
+    100338: NTM_Chair_ac32
+    100340: NTM_Chair_ac33
+    100342: NTM_Chair_ac34
+    100344: NTM_Chair_ac35
+    100346: NTM_Chair_ac36
+    100348: NTM_Chair_ac37
+    100350: NTM_Chair_ac38
+    100352: NTM_Chair_ac39
+    100354: NTM_Chair_ac40
+    100356: NTM_Chair_ac41
+    100358: NTM_Chair_ac6
+    100360: nurbsToPoly10
+    100362: nurbsToPoly11
+    100364: nurbsToPoly2
+    100366: nurbsToPoly2 1
+    100368: nurbsToPoly3
+    100370: nurbsToPoly3 1
+    100372: nurbsToPoly4
+    100374: nurbsToPoly4 1
+    100376: nurbsToPoly5
+    100378: nurbsToPoly5 1
+    100380: nurbsToPoly6
+    100382: nurbsToPoly6 1
+    100384: nurbsToPoly7
+    100386: nurbsToPoly8
+    100388: nurbsToPoly9
+    100390: Object05
+    100392: Object06
+    100394: Object07
+    100396: pCube10
+    100398: pCube11
+    100400: pCube12
+    100402: pCube13
+    100404: pCube19
+    100406: pCube2
+    100408: pCube2 1
+    100410: pCube2 2
+    100412: pCube2 3
+    100414: pCube2 4
+    100416: pCube2 5
+    100418: pCube2 6
+    100420: pCube20
+    100422: pCube21
+    100424: pCube22
+    100426: pCube23
+    100428: pCube24
+    100430: pCube25
+    100432: pCube26
+    100434: pCube27
+    100436: pCube28
+    100438: pCube29
+    100440: pCube3
+    100442: pCube3 1
+    100444: pCube3 2
+    100446: pCube3 3
+    100448: pCube3 4
+    100450: pCube3 5
+    100452: pCube3 6
+    100454: pCube32
+    100456: pCube33
+    100458: pCube34
+    100460: pCube35
+    100462: pCube36
+    100464: pCube37
+    100466: pCube38
+    100468: pCube40
+    100470: pCube40 1
+    100472: pCube40 2
+    100474: pCube40 3
+    100476: pCube40 4
+    100478: pCube40 5
+    100480: pCube40 6
+    100482: pCube40 7
+    100484: pCube7
+    100486: pCube8
+    100488: pCube9
+    100490: pCylinder10
+    100492: pCylinder12
+    100494: pCylinder13
+    100496: pCylinder14
+    100498: pCylinder15
+    100500: pCylinder16
+    100502: pCylinder16 1
+    100504: pCylinder16 2
+    100506: pCylinder16 3
+    100508: pCylinder16 4
+    100510: pCylinder16 5
+    100512: pCylinder16 6
+    100514: pCylinder16 7
+    100516: pCylinder17
+    100518: pCylinder18
+    100520: pCylinder19
+    100522: pCylinder2
+    100524: pCylinder2 1
+    100526: pCylinder20
+    100528: pCylinder21
+    100530: pCylinder22
+    100532: pCylinder23
+    100534: pCylinder24
+    100536: pCylinder25
+    100538: peooer
+    100540: peooer 1
+    100542: peooer 2
+    100544: peooer 3
+    100546: peooer 4
+    100548: peooer 5
+    100550: peooer 6
+    100552: peooer 7
+    100554: polySurface23
+    100556: polySurface24
+    100558: polySurface25
+    100560: polySurface26
+    100562: polySurface27
+    100564: polySurface28
+    100566: pPlane10
+    100568: pPlane11
+    100570: pPlane12
+    100572: pPlane13
+    100574: pPlane14
+    100576: pPlane4
+    100578: pPlane5
+    100580: pPlane6
+    100582: pPlane7
+    100584: pPlane8
+    100586: pPlane9
+    100588: pSphere1
+    100590: pSphere3
+    100592: pSphere4
+    100594: scale
+    400000: a_desk
+    400002: a_pillar
+    400004: a_sign
+    400006: a_topwall
+    400008: a_trushcan
+    400010: AM108_set13_016
+    400012: AM108_set13_017
+    400014: AM108_set13_018
+    400016: AM108_set13_019
+    400018: AM108_set13_020
+    400020: AM108_set13_021
+    400022: AM108_set13_024
+    400024: AM108_set13_025
+    400026: AM108_set13_026
+    400028: AM108_set13_027
+    400030: AM108_set13_028
+    400032: AM108_set13_029
+    400034: AM108_set13_030
+    400036: AM108_set13_031
+    400038: AM108_set13_032
+    400040: AM108_set13_033
+    400042: AM108_set13_034
+    400044: AM108_set13_035
+    400046: AM108_set13_036
+    400048: AM108_set13_037
+    400050: AM108_set13_038
+    400052: AM108_set13_039
+    400054: AM108_set13_040
+    400056: AM108_set13_041
+    400058: AM108_set13_042
+    400060: AM108_set13_043
+    400062: AM108_set13_044
+    400064: AM108_set13_045
+    400066: AM108_set13_046
+    400068: AM108_set13_047
+    400070: AM108_set13_048
+    400072: AM108_set13_049
+    400074: AM108_set13_050
+    400076: AM108_set13_051
+    400078: AM108_set13_052
+    400080: AM108_set13_053
+    400082: AM108_set13_054
+    400084: AM108_set13_055
+    400086: AM108_set13_056
+    400088: AM108_set13_057
+    400090: AM108_set13_06
+    400092: AM108_set13_09
+    400094: AM108_set13_11
+    400096: AM108_set13_16
+    400098: AM108_set13_22
+    400100: AM108_set13_27
+    400102: AM108_set13_27 1
+    400104: AM108_set13_28
+    400106: AM108_set13_28 1
+    400108: AM108_set13_29
+    400110: AM108_set13_29 1
+    400112: AM108_set13_30
+    400114: AM108_set13_31
+    400116: AM108_set13_32
+    400118: AM108_set13_33
+    400120: Archmodels_114_04_01
+    400122: Archmodels_114_04_05
+    400124: Archmodels_114_04_06
+    400126: Archmodels_114_04_07
+    400128: Archmodels_114_04_08
+    400130: Archmodels_114_04_09
+    400132: Archmodels_114_04_10
+    400134: Archmodels_114_04_11
+    400136: Archmodels_114_04_14
+    400138: Archmodels_114_04_25
+    400140: Archmodels_114_04_26
+    400142: Archmodels_114_04_27
+    400144: Archmodels_114_04_31
+    400146: Archmodels_114_04_32
+    400148: b_clock
+    400150: b_cook
+    400152: b_cook02
+    400154: b_sign
+    400156: b_topwall
+    400158: bowl
+    400160: bowl1
+    400162: bowl2
+    400164: bowl3
+    400166: bowl4
+    400168: bowl5
+    400170: bowl6
+    400172: chili
+    400174: chili 1
+    400176: chili 2
+    400178: chili 3
+    400180: chili 4
+    400182: chili 5
+    400184: chili 6
+    400186: chili 7
+    400188: cook
+    400190: dish
+    400192: dish2
+    400194: dish3
+    400196: //RootNode
+    400198: EatingShop_uv1
+    400200: EatingShop_uv2
+    400202: EatingShop_uv3
+    400204: lamp_A_1_1
+    400206: lamp_A_1_10
+    400208: lamp_A_1_11
+    400210: lamp_A_1_12
+    400212: lamp_A_1_13
+    400214: lamp_A_1_14
+    400216: lamp_A_1_15
+    400218: lamp_A_1_16
+    400220: lamp_A_1_17
+    400222: lamp_A_1_18
+    400224: lamp_A_1_19
+    400226: lamp_A_1_2
+    400228: lamp_A_1_20
+    400230: lamp_A_1_3
+    400232: lamp_A_1_4
+    400234: lamp_A_1_5
+    400236: lamp_A_1_6
+    400238: lamp_A_1_7
+    400240: lamp_A_1_8
+    400242: lamp_A_1_9
+    400244: lamp_A_28
+    400246: lamp_A_29
+    400248: lamp_A_2_1
+    400250: lamp_A_2_10
+    400252: lamp_A_2_11
+    400254: lamp_A_2_12
+    400256: lamp_A_2_13
+    400258: lamp_A_2_14
+    400260: lamp_A_2_15
+    400262: lamp_A_2_16
+    400264: lamp_A_2_17
+    400266: lamp_A_2_3
+    400268: lamp_A_2_4
+    400270: lamp_A_2_5
+    400272: lamp_A_2_6
+    400274: lamp_A_2_7
+    400276: lamp_A_2_8
+    400278: lamp_A_2_9
+    400280: lamp_A_3
+    400282: lamp_A_30
+    400284: lamp_A_31
+    400286: light_bulb_10
+    400288: light_bulb_3
+    400290: light_bulb_4
+    400292: light_bulb_5
+    400294: light_bulb_6
+    400296: light_bulb_7
+    400298: light_bulb_8
+    400300: light_bulb_9
+    400302: NTM_Chair_ac14
+    400304: NTM_Chair_ac15
+    400306: NTM_Chair_ac16
+    400308: NTM_Chair_ac17
+    400310: NTM_Chair_ac18
+    400312: NTM_Chair_ac19
+    400314: NTM_Chair_ac20
+    400316: NTM_Chair_ac21
+    400318: NTM_Chair_ac22
+    400320: NTM_Chair_ac23
+    400322: NTM_Chair_ac24
+    400324: NTM_Chair_ac25
+    400326: NTM_Chair_ac26
+    400328: NTM_Chair_ac27
+    400330: NTM_Chair_ac28
+    400332: NTM_Chair_ac29
+    400334: NTM_Chair_ac30
+    400336: NTM_Chair_ac31
+    400338: NTM_Chair_ac32
+    400340: NTM_Chair_ac33
+    400342: NTM_Chair_ac34
+    400344: NTM_Chair_ac35
+    400346: NTM_Chair_ac36
+    400348: NTM_Chair_ac37
+    400350: NTM_Chair_ac38
+    400352: NTM_Chair_ac39
+    400354: NTM_Chair_ac40
+    400356: NTM_Chair_ac41
+    400358: NTM_Chair_ac6
+    400360: nurbsToPoly10
+    400362: nurbsToPoly11
+    400364: nurbsToPoly2
+    400366: nurbsToPoly2 1
+    400368: nurbsToPoly3
+    400370: nurbsToPoly3 1
+    400372: nurbsToPoly4
+    400374: nurbsToPoly4 1
+    400376: nurbsToPoly5
+    400378: nurbsToPoly5 1
+    400380: nurbsToPoly6
+    400382: nurbsToPoly6 1
+    400384: nurbsToPoly7
+    400386: nurbsToPoly8
+    400388: nurbsToPoly9
+    400390: Object05
+    400392: Object06
+    400394: Object07
+    400396: pCube10
+    400398: pCube11
+    400400: pCube12
+    400402: pCube13
+    400404: pCube19
+    400406: pCube2
+    400408: pCube2 1
+    400410: pCube2 2
+    400412: pCube2 3
+    400414: pCube2 4
+    400416: pCube2 5
+    400418: pCube2 6
+    400420: pCube20
+    400422: pCube21
+    400424: pCube22
+    400426: pCube23
+    400428: pCube24
+    400430: pCube25
+    400432: pCube26
+    400434: pCube27
+    400436: pCube28
+    400438: pCube29
+    400440: pCube3
+    400442: pCube3 1
+    400444: pCube3 2
+    400446: pCube3 3
+    400448: pCube3 4
+    400450: pCube3 5
+    400452: pCube3 6
+    400454: pCube32
+    400456: pCube33
+    400458: pCube34
+    400460: pCube35
+    400462: pCube36
+    400464: pCube37
+    400466: pCube38
+    400468: pCube40
+    400470: pCube40 1
+    400472: pCube40 2
+    400474: pCube40 3
+    400476: pCube40 4
+    400478: pCube40 5
+    400480: pCube40 6
+    400482: pCube40 7
+    400484: pCube7
+    400486: pCube8
+    400488: pCube9
+    400490: pCylinder10
+    400492: pCylinder12
+    400494: pCylinder13
+    400496: pCylinder14
+    400498: pCylinder15
+    400500: pCylinder16
+    400502: pCylinder16 1
+    400504: pCylinder16 2
+    400506: pCylinder16 3
+    400508: pCylinder16 4
+    400510: pCylinder16 5
+    400512: pCylinder16 6
+    400514: pCylinder16 7
+    400516: pCylinder17
+    400518: pCylinder18
+    400520: pCylinder19
+    400522: pCylinder2
+    400524: pCylinder2 1
+    400526: pCylinder20
+    400528: pCylinder21
+    400530: pCylinder22
+    400532: pCylinder23
+    400534: pCylinder24
+    400536: pCylinder25
+    400538: peooer
+    400540: peooer 1
+    400542: peooer 2
+    400544: peooer 3
+    400546: peooer 4
+    400548: peooer 5
+    400550: peooer 6
+    400552: peooer 7
+    400554: polySurface23
+    400556: polySurface24
+    400558: polySurface25
+    400560: polySurface26
+    400562: polySurface27
+    400564: polySurface28
+    400566: pPlane10
+    400568: pPlane11
+    400570: pPlane12
+    400572: pPlane13
+    400574: pPlane14
+    400576: pPlane4
+    400578: pPlane5
+    400580: pPlane6
+    400582: pPlane7
+    400584: pPlane8
+    400586: pPlane9
+    400588: pSphere1
+    400590: pSphere3
+    400592: pSphere4
+    400594: scale
+    2100000: EatingShop_StaffL
+    2100002: EatingShop_StaffR
+    2100004: EatingShop_food
+    2300000: a_desk
+    2300002: a_pillar
+    2300004: a_sign
+    2300006: a_topwall
+    2300008: a_trushcan
+    2300010: AM108_set13_016
+    2300012: AM108_set13_017
+    2300014: AM108_set13_018
+    2300016: AM108_set13_019
+    2300018: AM108_set13_020
+    2300020: AM108_set13_021
+    2300022: AM108_set13_024
+    2300024: AM108_set13_025
+    2300026: AM108_set13_026
+    2300028: AM108_set13_027
+    2300030: AM108_set13_028
+    2300032: AM108_set13_029
+    2300034: AM108_set13_030
+    2300036: AM108_set13_031
+    2300038: AM108_set13_032
+    2300040: AM108_set13_033
+    2300042: AM108_set13_034
+    2300044: AM108_set13_035
+    2300046: AM108_set13_036
+    2300048: AM108_set13_037
+    2300050: AM108_set13_038
+    2300052: AM108_set13_039
+    2300054: AM108_set13_040
+    2300056: AM108_set13_041
+    2300058: AM108_set13_042
+    2300060: AM108_set13_043
+    2300062: AM108_set13_044
+    2300064: AM108_set13_045
+    2300066: AM108_set13_046
+    2300068: AM108_set13_047
+    2300070: AM108_set13_048
+    2300072: AM108_set13_049
+    2300074: AM108_set13_050
+    2300076: AM108_set13_051
+    2300078: AM108_set13_052
+    2300080: AM108_set13_053
+    2300082: AM108_set13_054
+    2300084: AM108_set13_055
+    2300086: AM108_set13_056
+    2300088: AM108_set13_057
+    2300090: AM108_set13_06
+    2300092: AM108_set13_09
+    2300094: AM108_set13_11
+    2300096: AM108_set13_16
+    2300098: AM108_set13_22
+    2300100: AM108_set13_27
+    2300102: AM108_set13_27 1
+    2300104: AM108_set13_28
+    2300106: AM108_set13_28 1
+    2300108: AM108_set13_29
+    2300110: AM108_set13_29 1
+    2300112: AM108_set13_30
+    2300114: AM108_set13_31
+    2300116: AM108_set13_32
+    2300118: AM108_set13_33
+    2300120: Archmodels_114_04_01
+    2300122: Archmodels_114_04_05
+    2300124: Archmodels_114_04_06
+    2300126: Archmodels_114_04_07
+    2300128: Archmodels_114_04_08
+    2300130: Archmodels_114_04_09
+    2300132: Archmodels_114_04_10
+    2300134: Archmodels_114_04_11
+    2300136: Archmodels_114_04_14
+    2300138: Archmodels_114_04_25
+    2300140: Archmodels_114_04_26
+    2300142: Archmodels_114_04_27
+    2300144: Archmodels_114_04_31
+    2300146: Archmodels_114_04_32
+    2300148: b_clock
+    2300150: b_cook
+    2300152: b_cook02
+    2300154: b_sign
+    2300156: b_topwall
+    2300158: bowl
+    2300160: bowl1
+    2300162: bowl2
+    2300164: bowl3
+    2300166: bowl4
+    2300168: bowl5
+    2300170: bowl6
+    2300172: chili
+    2300174: chili 1
+    2300176: chili 2
+    2300178: chili 3
+    2300180: chili 4
+    2300182: chili 5
+    2300184: chili 6
+    2300186: chili 7
+    2300188: cook
+    2300190: dish
+    2300192: dish2
+    2300194: dish3
+    2300196: EatingShop_uv1
+    2300198: EatingShop_uv2
+    2300200: EatingShop_uv3
+    2300202: lamp_A_1_1
+    2300204: lamp_A_1_10
+    2300206: lamp_A_1_11
+    2300208: lamp_A_1_12
+    2300210: lamp_A_1_13
+    2300212: lamp_A_1_14
+    2300214: lamp_A_1_15
+    2300216: lamp_A_1_16
+    2300218: lamp_A_1_17
+    2300220: lamp_A_1_18
+    2300222: lamp_A_1_19
+    2300224: lamp_A_1_2
+    2300226: lamp_A_1_20
+    2300228: lamp_A_1_3
+    2300230: lamp_A_1_4
+    2300232: lamp_A_1_5
+    2300234: lamp_A_1_6
+    2300236: lamp_A_1_7
+    2300238: lamp_A_1_8
+    2300240: lamp_A_1_9
+    2300242: lamp_A_28
+    2300244: lamp_A_29
+    2300246: lamp_A_2_1
+    2300248: lamp_A_2_10
+    2300250: lamp_A_2_11
+    2300252: lamp_A_2_12
+    2300254: lamp_A_2_13
+    2300256: lamp_A_2_14
+    2300258: lamp_A_2_15
+    2300260: lamp_A_2_16
+    2300262: lamp_A_2_17
+    2300264: lamp_A_2_3
+    2300266: lamp_A_2_4
+    2300268: lamp_A_2_5
+    2300270: lamp_A_2_6
+    2300272: lamp_A_2_7
+    2300274: lamp_A_2_8
+    2300276: lamp_A_2_9
+    2300278: lamp_A_3
+    2300280: lamp_A_30
+    2300282: lamp_A_31
+    2300284: light_bulb_10
+    2300286: light_bulb_3
+    2300288: light_bulb_4
+    2300290: light_bulb_5
+    2300292: light_bulb_6
+    2300294: light_bulb_7
+    2300296: light_bulb_8
+    2300298: light_bulb_9
+    2300300: NTM_Chair_ac14
+    2300302: NTM_Chair_ac15
+    2300304: NTM_Chair_ac16
+    2300306: NTM_Chair_ac17
+    2300308: NTM_Chair_ac18
+    2300310: NTM_Chair_ac19
+    2300312: NTM_Chair_ac20
+    2300314: NTM_Chair_ac21
+    2300316: NTM_Chair_ac22
+    2300318: NTM_Chair_ac23
+    2300320: NTM_Chair_ac24
+    2300322: NTM_Chair_ac25
+    2300324: NTM_Chair_ac26
+    2300326: NTM_Chair_ac27
+    2300328: NTM_Chair_ac28
+    2300330: NTM_Chair_ac29
+    2300332: NTM_Chair_ac30
+    2300334: NTM_Chair_ac31
+    2300336: NTM_Chair_ac32
+    2300338: NTM_Chair_ac33
+    2300340: NTM_Chair_ac34
+    2300342: NTM_Chair_ac35
+    2300344: NTM_Chair_ac36
+    2300346: NTM_Chair_ac37
+    2300348: NTM_Chair_ac38
+    2300350: NTM_Chair_ac39
+    2300352: NTM_Chair_ac40
+    2300354: NTM_Chair_ac41
+    2300356: NTM_Chair_ac6
+    2300358: nurbsToPoly10
+    2300360: nurbsToPoly11
+    2300362: nurbsToPoly2
+    2300364: nurbsToPoly2 1
+    2300366: nurbsToPoly3
+    2300368: nurbsToPoly3 1
+    2300370: nurbsToPoly4
+    2300372: nurbsToPoly4 1
+    2300374: nurbsToPoly5
+    2300376: nurbsToPoly5 1
+    2300378: nurbsToPoly6
+    2300380: nurbsToPoly6 1
+    2300382: nurbsToPoly7
+    2300384: nurbsToPoly8
+    2300386: nurbsToPoly9
+    2300388: Object05
+    2300390: Object06
+    2300392: Object07
+    2300394: pCube10
+    2300396: pCube11
+    2300398: pCube12
+    2300400: pCube13
+    2300402: pCube19
+    2300404: pCube2
+    2300406: pCube2 1
+    2300408: pCube2 2
+    2300410: pCube2 3
+    2300412: pCube2 4
+    2300414: pCube2 5
+    2300416: pCube2 6
+    2300418: pCube20
+    2300420: pCube21
+    2300422: pCube22
+    2300424: pCube23
+    2300426: pCube24
+    2300428: pCube25
+    2300430: pCube26
+    2300432: pCube27
+    2300434: pCube28
+    2300436: pCube29
+    2300438: pCube3
+    2300440: pCube3 1
+    2300442: pCube3 2
+    2300444: pCube3 3
+    2300446: pCube3 4
+    2300448: pCube3 5
+    2300450: pCube3 6
+    2300452: pCube32
+    2300454: pCube33
+    2300456: pCube34
+    2300458: pCube35
+    2300460: pCube36
+    2300462: pCube37
+    2300464: pCube38
+    2300466: pCube40
+    2300468: pCube40 1
+    2300470: pCube40 2
+    2300472: pCube40 3
+    2300474: pCube40 4
+    2300476: pCube40 5
+    2300478: pCube40 6
+    2300480: pCube40 7
+    2300482: pCube7
+    2300484: pCube8
+    2300486: pCube9
+    2300488: pCylinder10
+    2300490: pCylinder12
+    2300492: pCylinder13
+    2300494: pCylinder14
+    2300496: pCylinder15
+    2300498: pCylinder16
+    2300500: pCylinder16 1
+    2300502: pCylinder16 2
+    2300504: pCylinder16 3
+    2300506: pCylinder16 4
+    2300508: pCylinder16 5
+    2300510: pCylinder16 6
+    2300512: pCylinder16 7
+    2300514: pCylinder17
+    2300516: pCylinder18
+    2300518: pCylinder19
+    2300520: pCylinder2
+    2300522: pCylinder2 1
+    2300524: pCylinder20
+    2300526: pCylinder21
+    2300528: pCylinder22
+    2300530: pCylinder23
+    2300532: pCylinder24
+    2300534: pCylinder25
+    2300536: peooer
+    2300538: peooer 1
+    2300540: peooer 2
+    2300542: peooer 3
+    2300544: peooer 4
+    2300546: peooer 5
+    2300548: peooer 6
+    2300550: peooer 7
+    2300552: polySurface23
+    2300554: polySurface24
+    2300556: polySurface25
+    2300558: polySurface26
+    2300560: polySurface27
+    2300562: polySurface28
+    2300564: pPlane10
+    2300566: pPlane11
+    2300568: pPlane12
+    2300570: pPlane13
+    2300572: pPlane14
+    2300574: pPlane4
+    2300576: pPlane5
+    2300578: pPlane6
+    2300580: pPlane7
+    2300582: pPlane8
+    2300584: pPlane9
+    2300586: pSphere1
+    2300588: pSphere3
+    2300590: pSphere4
+    2300592: scale
+    3300000: a_desk
+    3300002: a_pillar
+    3300004: a_sign
+    3300006: a_topwall
+    3300008: a_trushcan
+    3300010: AM108_set13_016
+    3300012: AM108_set13_017
+    3300014: AM108_set13_018
+    3300016: AM108_set13_019
+    3300018: AM108_set13_020
+    3300020: AM108_set13_021
+    3300022: AM108_set13_024
+    3300024: AM108_set13_025
+    3300026: AM108_set13_026
+    3300028: AM108_set13_027
+    3300030: AM108_set13_028
+    3300032: AM108_set13_029
+    3300034: AM108_set13_030
+    3300036: AM108_set13_031
+    3300038: AM108_set13_032
+    3300040: AM108_set13_033
+    3300042: AM108_set13_034
+    3300044: AM108_set13_035
+    3300046: AM108_set13_036
+    3300048: AM108_set13_037
+    3300050: AM108_set13_038
+    3300052: AM108_set13_039
+    3300054: AM108_set13_040
+    3300056: AM108_set13_041
+    3300058: AM108_set13_042
+    3300060: AM108_set13_043
+    3300062: AM108_set13_044
+    3300064: AM108_set13_045
+    3300066: AM108_set13_046
+    3300068: AM108_set13_047
+    3300070: AM108_set13_048
+    3300072: AM108_set13_049
+    3300074: AM108_set13_050
+    3300076: AM108_set13_051
+    3300078: AM108_set13_052
+    3300080: AM108_set13_053
+    3300082: AM108_set13_054
+    3300084: AM108_set13_055
+    3300086: AM108_set13_056
+    3300088: AM108_set13_057
+    3300090: AM108_set13_06
+    3300092: AM108_set13_09
+    3300094: AM108_set13_11
+    3300096: AM108_set13_16
+    3300098: AM108_set13_22
+    3300100: AM108_set13_27
+    3300102: AM108_set13_27 1
+    3300104: AM108_set13_28
+    3300106: AM108_set13_28 1
+    3300108: AM108_set13_29
+    3300110: AM108_set13_29 1
+    3300112: AM108_set13_30
+    3300114: AM108_set13_31
+    3300116: AM108_set13_32
+    3300118: AM108_set13_33
+    3300120: Archmodels_114_04_01
+    3300122: Archmodels_114_04_05
+    3300124: Archmodels_114_04_06
+    3300126: Archmodels_114_04_07
+    3300128: Archmodels_114_04_08
+    3300130: Archmodels_114_04_09
+    3300132: Archmodels_114_04_10
+    3300134: Archmodels_114_04_11
+    3300136: Archmodels_114_04_14
+    3300138: Archmodels_114_04_25
+    3300140: Archmodels_114_04_26
+    3300142: Archmodels_114_04_27
+    3300144: Archmodels_114_04_31
+    3300146: Archmodels_114_04_32
+    3300148: b_clock
+    3300150: b_cook
+    3300152: b_cook02
+    3300154: b_sign
+    3300156: b_topwall
+    3300158: bowl
+    3300160: bowl1
+    3300162: bowl2
+    3300164: bowl3
+    3300166: bowl4
+    3300168: bowl5
+    3300170: bowl6
+    3300172: chili
+    3300174: chili 1
+    3300176: chili 2
+    3300178: chili 3
+    3300180: chili 4
+    3300182: chili 5
+    3300184: chili 6
+    3300186: chili 7
+    3300188: cook
+    3300190: dish
+    3300192: dish2
+    3300194: dish3
+    3300196: EatingShop_uv1
+    3300198: EatingShop_uv2
+    3300200: EatingShop_uv3
+    3300202: lamp_A_1_1
+    3300204: lamp_A_1_10
+    3300206: lamp_A_1_11
+    3300208: lamp_A_1_12
+    3300210: lamp_A_1_13
+    3300212: lamp_A_1_14
+    3300214: lamp_A_1_15
+    3300216: lamp_A_1_16
+    3300218: lamp_A_1_17
+    3300220: lamp_A_1_18
+    3300222: lamp_A_1_19
+    3300224: lamp_A_1_2
+    3300226: lamp_A_1_20
+    3300228: lamp_A_1_3
+    3300230: lamp_A_1_4
+    3300232: lamp_A_1_5
+    3300234: lamp_A_1_6
+    3300236: lamp_A_1_7
+    3300238: lamp_A_1_8
+    3300240: lamp_A_1_9
+    3300242: lamp_A_28
+    3300244: lamp_A_29
+    3300246: lamp_A_2_1
+    3300248: lamp_A_2_10
+    3300250: lamp_A_2_11
+    3300252: lamp_A_2_12
+    3300254: lamp_A_2_13
+    3300256: lamp_A_2_14
+    3300258: lamp_A_2_15
+    3300260: lamp_A_2_16
+    3300262: lamp_A_2_17
+    3300264: lamp_A_2_3
+    3300266: lamp_A_2_4
+    3300268: lamp_A_2_5
+    3300270: lamp_A_2_6
+    3300272: lamp_A_2_7
+    3300274: lamp_A_2_8
+    3300276: lamp_A_2_9
+    3300278: lamp_A_3
+    3300280: lamp_A_30
+    3300282: lamp_A_31
+    3300284: light_bulb_10
+    3300286: light_bulb_3
+    3300288: light_bulb_4
+    3300290: light_bulb_5
+    3300292: light_bulb_6
+    3300294: light_bulb_7
+    3300296: light_bulb_8
+    3300298: light_bulb_9
+    3300300: NTM_Chair_ac14
+    3300302: NTM_Chair_ac15
+    3300304: NTM_Chair_ac16
+    3300306: NTM_Chair_ac17
+    3300308: NTM_Chair_ac18
+    3300310: NTM_Chair_ac19
+    3300312: NTM_Chair_ac20
+    3300314: NTM_Chair_ac21
+    3300316: NTM_Chair_ac22
+    3300318: NTM_Chair_ac23
+    3300320: NTM_Chair_ac24
+    3300322: NTM_Chair_ac25
+    3300324: NTM_Chair_ac26
+    3300326: NTM_Chair_ac27
+    3300328: NTM_Chair_ac28
+    3300330: NTM_Chair_ac29
+    3300332: NTM_Chair_ac30
+    3300334: NTM_Chair_ac31
+    3300336: NTM_Chair_ac32
+    3300338: NTM_Chair_ac33
+    3300340: NTM_Chair_ac34
+    3300342: NTM_Chair_ac35
+    3300344: NTM_Chair_ac36
+    3300346: NTM_Chair_ac37
+    3300348: NTM_Chair_ac38
+    3300350: NTM_Chair_ac39
+    3300352: NTM_Chair_ac40
+    3300354: NTM_Chair_ac41
+    3300356: NTM_Chair_ac6
+    3300358: nurbsToPoly10
+    3300360: nurbsToPoly11
+    3300362: nurbsToPoly2
+    3300364: nurbsToPoly2 1
+    3300366: nurbsToPoly3
+    3300368: nurbsToPoly3 1
+    3300370: nurbsToPoly4
+    3300372: nurbsToPoly4 1
+    3300374: nurbsToPoly5
+    3300376: nurbsToPoly5 1
+    3300378: nurbsToPoly6
+    3300380: nurbsToPoly6 1
+    3300382: nurbsToPoly7
+    3300384: nurbsToPoly8
+    3300386: nurbsToPoly9
+    3300388: Object05
+    3300390: Object06
+    3300392: Object07
+    3300394: pCube10
+    3300396: pCube11
+    3300398: pCube12
+    3300400: pCube13
+    3300402: pCube19
+    3300404: pCube2
+    3300406: pCube2 1
+    3300408: pCube2 2
+    3300410: pCube2 3
+    3300412: pCube2 4
+    3300414: pCube2 5
+    3300416: pCube2 6
+    3300418: pCube20
+    3300420: pCube21
+    3300422: pCube22
+    3300424: pCube23
+    3300426: pCube24
+    3300428: pCube25
+    3300430: pCube26
+    3300432: pCube27
+    3300434: pCube28
+    3300436: pCube29
+    3300438: pCube3
+    3300440: pCube3 1
+    3300442: pCube3 2
+    3300444: pCube3 3
+    3300446: pCube3 4
+    3300448: pCube3 5
+    3300450: pCube3 6
+    3300452: pCube32
+    3300454: pCube33
+    3300456: pCube34
+    3300458: pCube35
+    3300460: pCube36
+    3300462: pCube37
+    3300464: pCube38
+    3300466: pCube40
+    3300468: pCube40 1
+    3300470: pCube40 2
+    3300472: pCube40 3
+    3300474: pCube40 4
+    3300476: pCube40 5
+    3300478: pCube40 6
+    3300480: pCube40 7
+    3300482: pCube7
+    3300484: pCube8
+    3300486: pCube9
+    3300488: pCylinder10
+    3300490: pCylinder12
+    3300492: pCylinder13
+    3300494: pCylinder14
+    3300496: pCylinder15
+    3300498: pCylinder16
+    3300500: pCylinder16 1
+    3300502: pCylinder16 2
+    3300504: pCylinder16 3
+    3300506: pCylinder16 4
+    3300508: pCylinder16 5
+    3300510: pCylinder16 6
+    3300512: pCylinder16 7
+    3300514: pCylinder17
+    3300516: pCylinder18
+    3300518: pCylinder19
+    3300520: pCylinder2
+    3300522: pCylinder2 1
+    3300524: pCylinder20
+    3300526: pCylinder21
+    3300528: pCylinder22
+    3300530: pCylinder23
+    3300532: pCylinder24
+    3300534: pCylinder25
+    3300536: peooer
+    3300538: peooer 1
+    3300540: peooer 2
+    3300542: peooer 3
+    3300544: peooer 4
+    3300546: peooer 5
+    3300548: peooer 6
+    3300550: peooer 7
+    3300552: polySurface23
+    3300554: polySurface24
+    3300556: polySurface25
+    3300558: polySurface26
+    3300560: polySurface27
+    3300562: polySurface28
+    3300564: pPlane10
+    3300566: pPlane11
+    3300568: pPlane12
+    3300570: pPlane13
+    3300572: pPlane14
+    3300574: pPlane4
+    3300576: pPlane5
+    3300578: pPlane6
+    3300580: pPlane7
+    3300582: pPlane8
+    3300584: pPlane9
+    3300586: pSphere1
+    3300588: pSphere3
+    3300590: pSphere4
+    3300592: scale
+    4300000: pCylinder16
+    4300002: pCylinder16
+    4300004: pCylinder16
+    4300006: pCylinder21
+    4300008: pCylinder20
+    4300010: pCylinder19
+    4300012: pCylinder17
+    4300014: pCylinder16
+    4300016: pCube40
+    4300018: chili
+    4300020: peooer
+    4300022: pCube40
+    4300024: chili
+    4300026: peooer
+    4300028: pCube40
+    4300030: chili
+    4300032: peooer
+    4300034: pCube40
+    4300036: chili
+    4300038: peooer
+    4300040: NTM_Chair_ac29
+    4300042: NTM_Chair_ac30
+    4300044: pCube40
+    4300046: pCylinder16
+    4300048: pCylinder22
+    4300050: peooer
+    4300052: chili
+    4300054: dish2
+    4300056: NTM_Chair_ac27
+    4300058: NTM_Chair_ac28
+    4300060: pCube2
+    4300062: pCube3
+    4300064: NTM_Chair_ac36
+    4300066: chili
+    4300068: pCube40
+    4300070: pCylinder16
+    4300072: peooer
+    4300074: NTM_Chair_ac40
+    4300076: NTM_Chair_ac41
+    4300078: pCylinder25
+    4300080: NTM_Chair_ac39
+    4300082: pCube2
+    4300084: pCube3
+    4300086: pCylinder24
+    4300088: pCube40
+    4300090: pCylinder16
+    4300092: peooer
+    4300094: chili
+    4300096: NTM_Chair_ac35
+    4300098: NTM_Chair_ac37
+    4300100: NTM_Chair_ac38
+    4300102: pCube2
+    4300104: pCube3
+    4300106: pCylinder16
+    4300108: NTM_Chair_ac31
+    4300110: NTM_Chair_ac32
+    4300112: chili
+    4300114: pCube40
+    4300116: peooer
+    4300118: pCylinder23
+    4300120: NTM_Chair_ac33
+    4300122: NTM_Chair_ac34
+    4300124: pCube2
+    4300126: pCube3
+    4300128: Archmodels_114_04_32
+    4300130: Archmodels_114_04_31
+    4300132: Archmodels_114_04_27
+    4300134: Archmodels_114_04_26
+    4300136: Archmodels_114_04_25
+    4300138: Archmodels_114_04_14
+    4300140: Archmodels_114_04_11
+    4300142: Archmodels_114_04_10
+    4300144: Archmodels_114_04_09
+    4300146: Archmodels_114_04_08
+    4300148: Archmodels_114_04_07
+    4300150: Archmodels_114_04_06
+    4300152: Archmodels_114_04_05
+    4300154: Archmodels_114_04_01
+    4300156: light_bulb_10
+    4300158: light_bulb_9
+    4300160: light_bulb_8
+    4300162: light_bulb_7
+    4300164: light_bulb_6
+    4300166: light_bulb_5
+    4300168: light_bulb_4
+    4300170: light_bulb_3
+    4300172: lamp_A_2_15
+    4300174: lamp_A_2_16
+    4300176: lamp_A_2_13
+    4300178: lamp_A_2_14
+    4300180: lamp_A_1_19
+    4300182: lamp_A_1_20
+    4300184: lamp_A_1_17
+    4300186: lamp_A_1_18
+    4300188: lamp_A_31
+    4300190: lamp_A_29
+    4300192: lamp_A_30
+    4300194: lamp_A_2_17
+    4300196: lamp_A_1_15
+    4300198: lamp_A_1_16
+    4300200: lamp_A_1_12
+    4300202: lamp_A_1_13
+    4300204: lamp_A_1_14
+    4300206: lamp_A_1_10
+    4300208: lamp_A_1_11
+    4300210: lamp_A_1_9
+    4300212: lamp_A_2_12
+    4300214: pCube36
+    4300216: pCube35
+    4300218: pCube34
+    4300220: pCube33
+    4300222: pCube32
+    4300224: pCube8
+    4300226: pCube9
+    4300228: pCube7
+    4300230: pCube13
+    4300232: pCube10
+    4300234: pCube11
+    4300236: pCube12
+    4300238: pPlane14
+    4300240: pPlane6
+    4300242: pPlane7
+    4300244: pPlane8
+    4300246: b_cook
+    4300248: pPlane11
+    4300250: pPlane9
+    4300252: pPlane10
+    4300254: pCube19
+    4300256: nurbsToPoly11
+    4300258: nurbsToPoly10
+    4300260: nurbsToPoly9
+    4300262: nurbsToPoly8
+    4300264: nurbsToPoly7
+    4300266: AM108_set13_28
+    4300268: AM108_set13_29
+    4300270: pCube28
+    4300272: AM108_set13_27
+    4300274: pCylinder2
+    4300276: nurbsToPoly2
+    4300278: nurbsToPoly5
+    4300280: nurbsToPoly4
+    4300282: nurbsToPoly3
+    4300284: nurbsToPoly6
+    4300286: bowl5
+    4300288: bowl6
+    4300290: pCube23
+    4300292: pCube29
+    4300294: pCube20
+    4300296: pCube21
+    4300298: pCube22
+    4300300: pCube24
+    4300302: pCube25
+    4300304: pPlane12
+    4300306: pPlane13
+    4300308: b_cook02
+    4300310: pCube37
+    4300312: AM108_set13_32
+    4300314: AM108_set13_33
+    4300316: AM108_set13_31
+    4300318: pCylinder15
+    4300320: pCylinder12
+    4300322: pCylinder13
+    4300324: pCylinder14
+    4300326: polySurface27
+    4300328: polySurface28
+    4300330: polySurface25
+    4300332: AM108_set13_30
+    4300334: AM108_set13_22
+    4300336: bowl
+    4300338: dish
+    4300340: AM108_set13_16
+    4300342: NTM_Chair_ac21
+    4300344: NTM_Chair_ac22
+    4300346: NTM_Chair_ac23
+    4300348: NTM_Chair_ac20
+    4300350: pCube3
+    4300352: pCube2
+    4300354: AM108_set13_11
+    4300356: AM108_set13_06
+    4300358: dish3
+    4300360: AM108_set13_09
+    4300362: polySurface26
+    4300364: NTM_Chair_ac25
+    4300366: NTM_Chair_ac24
+    4300368: NTM_Chair_ac26
+    4300370: pCube3
+    4300372: pCube2
+    4300374: NTM_Chair_ac19
+    4300376: NTM_Chair_ac18
+    4300378: NTM_Chair_ac16
+    4300380: NTM_Chair_ac17
+    4300382: pCube26
+    4300384: pCube27
+    4300386: NTM_Chair_ac15
+    4300388: NTM_Chair_ac14
+    4300390: NTM_Chair_ac6
+    4300392: pCube3
+    4300394: pCube2
+    4300396: Object07
+    4300398: pSphere4
+    4300400: Object06
+    4300402: pSphere3
+    4300404: pSphere1
+    4300406: Object05
+    4300408: nurbsToPoly5
+    4300410: nurbsToPoly4
+    4300412: nurbsToPoly3
+    4300414: nurbsToPoly6
+    4300416: AM108_set13_057
+    4300418: AM108_set13_056
+    4300420: nurbsToPoly2
+    4300422: AM108_set13_055
+    4300424: bowl2
+    4300426: bowl3
+    4300428: bowl1
+    4300430: AM108_set13_054
+    4300432: AM108_set13_053
+    4300434: AM108_set13_052
+    4300436: AM108_set13_051
+    4300438: AM108_set13_050
+    4300440: AM108_set13_049
+    4300442: AM108_set13_048
+    4300444: AM108_set13_047
+    4300446: AM108_set13_046
+    4300448: AM108_set13_045
+    4300450: AM108_set13_044
+    4300452: scale
+    4300454: AM108_set13_043
+    4300456: AM108_set13_042
+    4300458: AM108_set13_041
+    4300460: AM108_set13_040
+    4300462: AM108_set13_039
+    4300464: AM108_set13_038
+    4300466: AM108_set13_037
+    4300468: AM108_set13_036
+    4300470: bowl4
+    4300472: AM108_set13_035
+    4300474: AM108_set13_034
+    4300476: AM108_set13_033
+    4300478: AM108_set13_032
+    4300480: AM108_set13_017
+    4300482: AM108_set13_031
+    4300484: AM108_set13_021
+    4300486: AM108_set13_030
+    4300488: AM108_set13_029
+    4300490: AM108_set13_020
+    4300492: AM108_set13_028
+    4300494: AM108_set13_016
+    4300496: AM108_set13_018
+    4300498: AM108_set13_019
+    4300500: pCylinder18
+    4300502: lamp_A_2_11
+    4300504: lamp_A_2_10
+    4300506: lamp_A_2_9
+    4300508: pPlane5
+    4300510: lamp_A_2_5
+    4300512: lamp_A_2_6
+    4300514: pCylinder10
+    4300516: pPlane4
+    4300518: lamp_A_2_4
+    4300520: lamp_A_1_5
+    4300522: lamp_A_3
+    4300524: lamp_A_1_1
+    4300526: lamp_A_28
+    4300528: lamp_A_2_1
+    4300530: lamp_A_1_2
+    4300532: lamp_A_2_8
+    4300534: lamp_A_2_3
+    4300536: lamp_A_1_4
+    4300538: lamp_A_1_6
+    4300540: lamp_A_2_7
+    4300542: lamp_A_1_3
+    4300544: lamp_A_1_7
+    4300546: lamp_A_1_8
+    4300548: AM108_set13_29
+    4300550: AM108_set13_27
+    4300552: pCube38
+    4300554: polySurface23
+    4300556: polySurface24
+    4300558: cook
+    4300560: pCylinder2
+    4300562: AM108_set13_28
+    4300564: AM108_set13_027
+    4300566: AM108_set13_026
+    4300568: AM108_set13_025
+    4300570: AM108_set13_024
+    4300572: b_sign
+    4300574: b_topwall
+    4300576: b_clock
+    4300578: a_trushcan
+    4300580: a_desk
+    4300582: a_pillar
+    4300584: a_topwall
+    4300586: a_sign
+    4300588: EatingShop_uv1
+    4300590: EatingShop_uv2
+    4300592: EatingShop_uv3
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
